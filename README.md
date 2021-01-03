@@ -1,8 +1,7 @@
-# m68
-m68 assembler codes for beguinners
+# text into com executavel
 
 
-https://en.m.wikipedia.org/wiki/Motorola_68000
+
 
 
 
